@@ -23,7 +23,7 @@ cd ~/ydlidar_ros2_ws/src
 Clone the YDLIDAR ROS2 driver repository:
 
 ```bash
-git clone https://github.com/YDLIDAR/ydlidar_ros2_driver.git
+git clone -b humble https://github.com/YDLIDAR/ydlidar_ros2_driver.git
 ```
 ### 2. Build the ydlidar_ros2_driver Package
 Navigate to the workspace directory:
